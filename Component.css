@@ -1,0 +1,11 @@
+.div8 {
+  width: 158px;
+  position: relative;
+  font-size: 140px;
+  letter-spacing: -0.04em;
+  font-weight: 500;
+  font-family: var(--secondary-text);
+  color: var(--color-deepskyblue);
+  text-align: left;
+  display: inline-block;
+}
